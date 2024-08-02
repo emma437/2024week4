@@ -1,0 +1,37 @@
+.q-title {
+  border-left: 8px solid $primary;
+  margin-top: 96px;
+  padding-left: 16px;
+  margin-bottom: 32px;
+}
+.q-title2 {
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.q-content {
+  width: 856px;
+  .q-question {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  .q-text {
+    margin-bottom: 32px;
+  }
+}
+
+.q5 {
+  margin-bottom: 80px;
+}
+
+@media (max-width: 992px) {
+  .q-content {
+    max-width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  .q-title {
+    font-size: 24px;
+    margin-top: 40px;
+  }
+}

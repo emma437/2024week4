@@ -1,0 +1,19 @@
+.nav {
+  background-color: $primary;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.logo {
+  width: 80px;
+}
+.navBar {
+  align-items: center;
+}
+
+.navBar li a {
+  /* padding: auto; */
+  padding-top: 25px;
+  padding-bottom: 22px;
+  color: rgba(255, 255, 255, 1);
+}

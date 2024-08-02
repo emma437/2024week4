@@ -1,0 +1,46 @@
+.footer {
+  background: $primary;
+}
+
+.section-l a,
+.contact p,
+.section-b,
+.section-b a {
+  color: #ffffff;
+}
+.section-l .btn {
+  padding: 16px 16px 16px 0;
+}
+.section-l li {
+  padding: 16px;
+}
+.section-t {
+  padding-top: 24px;
+}
+.section-r {
+  width: 208px;
+}
+.section-l {
+  width: 464px;
+}
+.section-r img {
+  width: 48px;
+}
+.contact {
+  margin-top: 23px;
+  margin-bottom: 32px;
+}
+.section-b {
+  border-top: 1px solid #ffffff;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.tel2,
+.mail2 {
+  display: flex;
+}
+.phone,
+.mail3 {
+  width: 36px;
+  margin-right: 16px;
+}

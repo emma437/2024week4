@@ -1,0 +1,85 @@
+/* 常用class */
+
+.d-flex {
+  display: flex;
+}
+.fd-c {
+  flex-direction: column;
+}
+.ai-c {
+  align-items: center;
+}
+.jcsb {
+  justify-content: space-between;
+}
+.row {
+  flex-wrap: wrap;
+  margin-right: -12px;
+  margin-left: -12px;
+}
+.col-3 {
+  width: 25%;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.col-4 {
+  width: 33%;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.h2 {
+  font-size: 48px;
+  color: $secondary;
+  font-weight: bold;
+  text-align: center;
+}
+.h2-w {
+  font-size: 48px;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}
+.h2-b {
+  font-size: 48px;
+  font-weight: bold;
+}
+.h3 {
+  font-family: "Roboto";
+  font-size: 48px;
+  color: $primary;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+.pr-8 {
+  padding-right: 32px;
+}
+.pl-8 {
+  padding-left: 32px;
+}
+
+.fs-5 {
+  font-size: 20px;
+}
+
+.fs-6 {
+  font-size: 24px;
+}
+.fs-8 {
+  font-size: 32px;
+}
+.fs-9 {
+  font-size: 36px;
+}
+.fs-14 {
+  font-size: 42px;
+}
+
+.fs-16 {
+  font-size: 64px;
+}
+
+.co65 {
+  color: $secondary;
+}
